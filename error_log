@@ -1,0 +1,1 @@
+[19-Feb-2023 17:10:20 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on boolean in /home/wearbcombd/uber.wearb.com.bd/system/database/drivers/mysqli/mysqli_driver.php on line 221
